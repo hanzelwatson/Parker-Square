@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PairArrayList
+comment0.text=\r\n\ PairArrayList\ objects\ hold\ ArrayLists\ of\ SquarePair\ objects,\ and\ the\ save\r\n\ the\ sum\ of\ the\ SquarePairs\ \r\n\ \r\n\ Maya\ Gusak\r\n\ June,\ 2019\r\n
+comment1.params=value
+comment1.target=PairArrayList(int)
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=p
+comment2.target=void\ insertPair(SquarePair)
+comment2.text=\r\n\ Insert\ a\ SquarePair\ object\r\n
+comment3.params=
+comment3.target=int\ getSum()
+comment3.text=\r\n\ Returns\ sum\r\n
+comment4.params=
+comment4.target=int\ getSize()
+comment4.text=\r\n\ Returns\ the\ ArrayList's\ size\r\n
+comment5.params=index
+comment5.target=SquarePair\ get(int)
+comment5.text=\r\n\ Returns\ the\ SquarePair\ at\ a\ certain\ index\r\n
+numComments=6

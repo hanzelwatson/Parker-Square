@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SquareSearch
+comment0.text=\r\n\ This\ is\ just\ a\ neat\ little\ SIDE\ PROJECT.\ Main\ project\ is\ "Game\ of\ Set\!"\r\n\ SquareSearch\ tries\ to\ find\ possibilities\ for\ a\ magic\ square\ made\ of\ perfect\ squares.\r\n\ This\ is\ an\ open\ math\ problem\ that\ I\ thought\ would\ be\ fun\ to\ tackle.\r\n\ I\ think\ this\ is\ cool\ because\ I\ programmed\ the\ computer\ to\ find\ an\ answer\r\n\ and\ I\ had\ no\ idea\ what\ to\ expect.\ Anyway,\ I\ did\ a\ little\ math\ with\ what\ qualities\r\n\ a\ theoretical\ "Parker\ Square"\ should\ have\ and\ ran\ tests\ based\ on\ that.\r\n\ The\ program\ is\ incomplete;\ it\ only\ looks\ for\ three\ pairs\ of\ numbers\ that\ could\ be\r\n\ in\ a\ "Parker\ Square",\ and\ I\ tested\ all\ its\ outputs\ (myCap\ \=\ 200)\ by\ hand\ (no\ luck).\r\n\ The\ math\ is\ tricky\ to\ explain\ unless\ it's\ in\ person.\ Create\ a\ SquareSearch\ object\ and\ set\r\n\ the\ cap\ appropriately\ to\ however\ long\ you\ want\ your\ computer\ to\ run,\ as\ there's\ quite\ a\ lot\ of\r\n\ computation\ involved.\ Oh,\ and\ if\ you\ find\ a\ solution,\ creds\ go\ to\ me\!\ \:)\r\n\r\n\ Maya\ Gusak\r\n\ June,\ 2019\r\n
+comment1.params=cap
+comment1.target=SquareSearch(int)
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=void\ search()
+comment2.text=\r\n\ Searches\ up\ to\ myCap\ and\ organizes\ pairs\ of\ squares\ into\ arrarr\r\n
+comment3.params=arr
+comment3.target=void\ placeEdges(PairArrayList)
+comment3.text=\r\n\ Places\ the\ four\ edges\r\n
+comment4.params=arr\ first\ second
+comment4.target=void\ placeCorners(PairArrayList,\ int,\ int)
+comment4.text=\r\n\ Places\ two\ diagonal\ corners\r\n
+comment5.params=arr\ ver\ hor\ diag\ reversed
+comment5.target=void\ checkOtherCorner(PairArrayList,\ int,\ int,\ int,\ boolean)
+comment5.text=\r\n\ Unfinished\ method\ for\ creating\ another\ corner\r\n
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\r\n\ Just\ a\ tester\ class\ that\ helped\ me\ test\ stuff\ in\ the\ beginning\r\n\ Nothing\ interesting\ to\ see\ here\r\n\ \r\n\r\n\ Maya\ Gusak\r\n\ June,\ 2019\r\n
+comment1.params=
+comment1.target=void\ square()
+comment2.params=value
+comment2.target=void\ insert(int)
+comment3.params=
+comment3.target=void\ printArray()
+comment4.params=
+comment4.target=void\ findMatch()
+numComments=5

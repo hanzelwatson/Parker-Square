@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SquarePair
+comment0.text=\r\n\ Objects\ of\ type\ SquarePair\ save\ two\ square\ numbers\ and\ their\ sum\r\n\r\n\ Maya\ Gusak\r\n\ June,\ 2019\r\n
+comment1.params=x\ y
+comment1.target=SquarePair(int,\ int)
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=int\ getSquare1()
+comment2.text=\r\n\ Returns\ first\ square\r\n
+comment3.params=
+comment3.target=int\ getSquare2()
+comment3.text=\r\n\ Returns\ second\ square\r\n
+comment4.params=
+comment4.target=int\ getSum()
+comment4.text=\r\n\ Returns\ the\ SquarePair's\ sum\r\n
+comment5.params=other
+comment5.target=boolean\ sameSum(SquarePair)
+comment5.text=\r\n\ Compares\ the\ sums\ of\ two\ SquarePairs\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ toString()\ method\ of\ this\ class\r\n
+numComments=7
